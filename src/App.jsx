@@ -24,6 +24,7 @@ import {
   Calendar,
 } from "lucide-react";
 import "./App.css";
+import "./index.css";
 import resume from "./assets/Ganesh_Sasidhar_Resume.pdf";
 
 function App() {
