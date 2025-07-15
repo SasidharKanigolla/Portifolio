@@ -304,11 +304,11 @@ function App() {
         className="min-h-screen  flex items-center justify-center relative overflow-hidden"
       >
         <div className="absolute  inset-0 bg-gradient-to-r from-blue-600/10 to-indigo-600/10"></div>
-        <div className="relative z-10 text-center px-4">
-          <div className="mb-8 mt-24">
-            <div className="w-32  h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center text-4xl font-bold">
+        <div className="relative z-10 text-center px-4 overflow-visible">
+          <div className="mb-8 mt-20">
+            {/* <div className="w-32  h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center text-4xl font-bold">
               GS
-            </div>
+            </div> */}
             {/* <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center">
               <img
                 src="https://drive.usercontent.google.com/download?id=1UK1sn-CbajUXHaRwtgIPm2b3_NGHr4FS&export=view&authuser=0" // put your image path here
@@ -317,7 +317,7 @@ function App() {
               />
             </div> */}
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-[1.3] pb-4 bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">
             Kanigolla Ganesh Sasidhar
           </h1>
 
