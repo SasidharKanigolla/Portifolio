@@ -111,7 +111,7 @@ function App() {
       },
       {
         name: "TailwindCSS",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+        icon: "https://img.icons8.com/ios/50/000000/code.png",
       },
       {
         name: "Bootstrap",
